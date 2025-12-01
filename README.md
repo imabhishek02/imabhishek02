@@ -28,11 +28,12 @@
 
 ### 🛠️ Tech Stack
 #### **Backend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45"/>
-</p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=imabhishek02" /></p>
+
+<p><img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api?username=imabhishek02&show_icons=true&cache_seconds=7200" /></p>
+
+<p><img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=imabhishek02&layout=compact&cache_seconds=7200" /></p>
+
 
 #### **Database & Cloud**
 <p>
