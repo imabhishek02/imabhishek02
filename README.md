@@ -50,12 +50,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="center" src="https://streak-stats.demolab.com/?user=imabhishek02" /></p>
-
-<p><img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api?username=imabhishek02&show_icons=true&cache_seconds=7200" /></p>
-
-<p><img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=imabhishek02&layout=compact&cache_seconds=7200" /></p>
-
-
 ---
