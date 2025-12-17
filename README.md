@@ -2,8 +2,7 @@
 
 Backend Engineer | Java • Spring Boot • Microservices
 
-I am a backend engineer with ~2 years of experience building **scalable, secure, and production-ready backend systems** using Java and Spring Boot.  
-I focus on **API design, microservices architecture, data security, and reliability**.
+I am a backend engineer with over 2 years of experience building **scalable, secure, and production-ready backend systems** using Java and Spring Boot.I focus on **API design, microservices architecture, data security, and reliability**.
 
 ---
 
