@@ -58,5 +58,5 @@ I am a backend engineer with over 2 years of experience building **scalable, sec
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/abhishekrohit  
-- Email: abhishekrohit3699@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abhishekrohit/
+- Email: ar.rohit030@gmail.com
