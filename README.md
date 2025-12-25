@@ -37,18 +37,7 @@ I am a backend engineer with over 2 years of experience building **scalable, sec
 - **Security:** JWT, AES Encryption  
 - **DevOps:** Docker  
 
----
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabhishek02&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabhishek02&hide_border=true" />
-</p>
-
----
 
 ## Currently Improving
 - Data Structures & Algorithms
